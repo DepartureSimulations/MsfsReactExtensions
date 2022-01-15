@@ -1,6 +1,6 @@
 {
   "name": "@DepartureSimulations/msfs-react-extensions",
-  "version": "0.0.1",
+  "version": "0.1.0-beta",
   "description": "A library I've made to make my life easier when working with MSFS React.",
   "main": "index.js",
   "scripts": {
